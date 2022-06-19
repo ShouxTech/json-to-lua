@@ -1,5 +1,5 @@
 # json-to-lua
-Convert a JSON string to a Lua table.  
+Convert a JSON string to a Lua table.
   
 ![Code example](./readme/code.png)
 ![Output example](./readme/output.png)

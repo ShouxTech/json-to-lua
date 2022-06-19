@@ -1,5 +1,7 @@
 # json-to-lua
 Convert a JSON string to a Lua table.
+![Code example](./code.png)
+![Output example](./output.png)
 
 ## How it works
 First, it generates an [abstract syntax tree](https://github.com/vtrushin/json-to-ast) from the JSON string.
